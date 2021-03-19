@@ -1,0 +1,5 @@
+[package]
+name = "golem"
+version = "0.1.0"
+authors = ["Jesse Stricker <me@jessestricker.de>"]
+edition = "2018"
