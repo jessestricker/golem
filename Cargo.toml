@@ -3,3 +3,6 @@ name = "golem"
 version = "0.1.0"
 authors = ["Jesse Stricker <me@jessestricker.de>"]
 edition = "2018"
+
+[dependencies]
+const_format = "0.2.13"
